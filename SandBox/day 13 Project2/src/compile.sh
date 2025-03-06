@@ -1,0 +1,1 @@
+gcc -Wall -Wextra -Werror -std=c11 -lncurses game_of_life.c
